@@ -9,4 +9,4 @@ a, b = b, a
 print("a =", a)
 
 # Print the new value of b
-print("b =", b)
+print("b =", b) 
