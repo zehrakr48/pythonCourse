@@ -1,0 +1,10 @@
+students = ["fatma", "ahmet", "zehra", "ali", "ayfer", "enes", "bugra", "elisa"]
+print(students)
+print(students[0])
+print(students[1])
+print(students[2])
+print(students[3])
+print(students[4])
+print(students[5])
+print(students[6])
+print(students[7])
