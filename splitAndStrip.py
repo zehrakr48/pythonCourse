@@ -23,4 +23,4 @@ bio4 = "  Zehra;KIR;22;Gaziantep  ".strip()
 print(bio4.split(";"))
 
 # Print the city of residence, which is the last element after splitting
-print("City of residence: " + bio4.split(";")[3])  # Extracts the city name directly
+print("City of residence: " + bio4.split(";")[3])  # Extracts the city name directly 
