@@ -21,4 +21,4 @@ height = input("Height: ")
 
 # Calculate and print the area of the triangle
 # The formula for the area of a triangle is (base * height) / 2
-print("Triangle Area: " + str((float(base) * float(height)) / 2))
+print("Triangle Area: " + str((float(base) * float(height)) / 2)) 
