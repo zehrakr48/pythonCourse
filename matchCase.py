@@ -9,5 +9,7 @@ match currentLight:
         print("Ready!")
     case "green":
         print("Go!")
+    case "purple":
+        pass  # No action for "purple", it's ignored
     case _:
         print("Invalid light color entered.")
